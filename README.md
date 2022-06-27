@@ -17,6 +17,8 @@ This project files requires **Python 3** and the following Python libraries inst
 python3 faceMesh.py
 ```  
 
-Plug in a webcam and run python faceMesh.py. It will show the webcam image. If it sees your iris, it will mark the centre of them and move cursor according to where you look. 
+Plug in a webcam and run python3 faceMesh.py. It will show the webcam image. If it sees your iris, it will mark the centre of them and move cursor according to where you look. 
 
 If you close your left/right eye it will respectfully left/right click.
+
+This project was built in PyCharm Community.
